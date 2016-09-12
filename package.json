@@ -1,5 +1,6 @@
 {
   "name": "bootstrapx-clickover",
+  "version": "1.0.0",
   "author": "",
   "description": "Bootstrap Extension for Click managed popovers.",
   "main": "js/bootstrapx-clickover.js",
